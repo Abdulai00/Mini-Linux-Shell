@@ -1,0 +1,11 @@
+lexer.c
+
+parser.tab.c
+
+*.csh
+
+*.txt
+
+*.input
+
+*.output

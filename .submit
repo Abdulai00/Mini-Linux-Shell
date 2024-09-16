@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC216
+#  Project Project #6: Shell ("When Shellito Grows Up")
+
+courseName=CMSC216
+semester=202405
+projectNumber=Project #6
+courseKey=c7b2d2e22c4b301e
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/summer2024
+submitURL=https://submit.cs.umd.edu:443/summer2024/eclipse/SubmitProjectViaEclipse
