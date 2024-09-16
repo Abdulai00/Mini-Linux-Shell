@@ -1,2 +1,2 @@
 # Mini-Linux-Shell
-A mini linux shell that can mimic that majority of the commands you would use normally 
+Note the file lexer.c is not my work I'm borrowing it to directly parse the binary tree after tokenization.
